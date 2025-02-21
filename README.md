@@ -12,7 +12,7 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Analyst with a p
 <h2>💡 My recent projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure; and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
+  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure, and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacpaysinger/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
