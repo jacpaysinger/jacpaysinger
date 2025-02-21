@@ -4,26 +4,28 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm <b>Jac</b> — an IT professional with a passion for securing data. Welcome to my GitHub! 
+Hello, World! I'm <b>Jac</b> — matcha enthusiast and IT professional with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
- 📍 Somewhere securing the Cloud...<br>📚 I'm currently learning: NIST 800-37 • NIST 800-53 • NIST 800-61 <br>
+ 📍 Somewhere securing the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📚 I'm currently learning: NIST CSF • NIST 800-37 • NIST 800-53 • NIST 800-61<br>
  </p>
 <h2>💡 My recent projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jacpaysinger/osticket_prereq-install)
-  - [osTicket: Post-Installation Configuration](https://github.com/jacpaysinger/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jacpaysinger/ticket-lifecycle)
-    
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure; and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacpaysinger/azure-network-protocols)
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jacpaysinger/osticket_prereq-install)
+  - [osTicket: Post-Installation Configuration](https://github.com/jacpaysinger/post-install-config)
+  
+    
 
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
-
+  Threat Detection • Incident Response • Security Monitoring and Log Analysis • Identity and Access Management • Technical Writing </br>
+  <p align="center"> 
+  </p>
 
 <h2>🤳🏽 Connect with me:</h2>
 
