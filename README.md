@@ -5,9 +5,10 @@
 </p>
 <p align="center" "style="color: #FFDEAD">
 Hello, World! I'm Jac, an IT professional with a passion for securing data. Welcome to my GitHub! 
-</p>
 </br>
-
+</br>
+ 📍 Somewhere securing the Cloud...<br>📚 I'm currently learning: NIST 800-37 • NIST 800-53 • NIST 800-61 <br>
+ </p>
 <h2>💡 My recent projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -22,6 +23,7 @@ Hello, World! I'm Jac, an IT professional with a passion for securing data. Welc
 
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
+
 
 <h2>🤳🏽 Connect with me:</h2>
 
