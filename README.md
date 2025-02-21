@@ -4,7 +4,7 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm Jac, an IT professional with a passion for securing data. Welcome to my GitHub! 
+Hello, World! I'm <b>Jac</b> — an IT professional with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
  📍 Somewhere securing the Cloud...<br>📚 I'm currently learning: NIST 800-37 • NIST 800-53 • NIST 800-61 <br>
