@@ -19,8 +19,8 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
   - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jacpaysinger/osticket_prereq-install)
   - [osTicket: Post-Installation Configuration](https://github.com/jacpaysinger/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/jacpaysinger/osticket_prereq-install)
   
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
