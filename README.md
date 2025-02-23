@@ -12,21 +12,16 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
 <h2>💡 My recent projects:</h2>
 
 - <b>Cybersecurity Labs</b>
-    - [Attack Simulation: Failed Authentication](https://github.com/jacpaysinger/attack-simulation/blob/main/README.md)
- 
-    - [Disabling Windows Firewall and Installing SQL Server to Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
- 
-
-- <b>Microsoft Azure</b>
-  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
+  - [Microsoft Entra ID Permissions](https://github.com/jacpaysinger/microsoft-entra-id-permissions)
+  - [Attack Simulation: Failed Authentication](https://github.com/jacpaysinger/attack-simulation/blob/main/README.md)
+  - [Disabling Windows Firewall and Installing SQL Server to Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacpaysinger/azure-network-protocols)
+  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jacpaysinger/osticket_prereq-install)
   - [osTicket: Post-Installation Configuration](https://github.com/jacpaysinger/post-install-config)
   
-    
-
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
   Technical Support • Identity and Access Management • Threat Detection • Incident Response • Security Monitoring and Log Analysis  </br>
