@@ -12,6 +12,8 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
 <h2>💡 My recent projects:</h2>
 
 - <b>Cybersecurity Labs</b>
+    - [Attack Simulation: Failed Authentication](https://github.com/jacpaysinger/attack-simulation/blob/main/README.md)
+ 
     - [Disabling Windows Firewall and Installing SQL Server and Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
  
 
@@ -27,7 +29,7 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
 
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
-  Threat Detection • Incident Response • Security Monitoring and Log Analysis • Identity and Access Management • Technical Writing </br>
+  Technical Support • Identity and Access Management • Threat Detection • Incident Response • Security Monitoring and Log Analysis  </br>
   <p align="center"> 
   </p>
 
