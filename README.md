@@ -4,7 +4,7 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst with a passion for securing data. </br>Welcome to my GitHub! 
+Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
  📍 Somewhere securing the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📚 I'm currently learning: NIST CSF • NIST 800-37 • NIST 800-53 • NIST 800-61<br>
