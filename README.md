@@ -4,15 +4,19 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Analyst with a passion for securing data. Welcome to my GitHub! 
+Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst with a passion for securing data. </br>Welcome to my GitHub! 
 </br>
 </br>
  📍 Somewhere securing the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📚 I'm currently learning: NIST CSF • NIST 800-37 • NIST 800-53 • NIST 800-61<br>
  </p>
 <h2>💡 My recent projects:</h2>
 
+- <b>Cybersecurity Labs</b>
+    - [Disabling Windows Firewall and Installing SQL Server and Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
+ 
+
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure, and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
+  - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacpaysinger/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -29,5 +33,5 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Analyst with a p
 
 <h2>🤳🏽 Connect with me:</h2>
 
-<p align="left"> <a href="https://discord.com/users/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
