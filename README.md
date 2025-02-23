@@ -14,7 +14,7 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
 - <b>Cybersecurity Labs</b>
     - [Attack Simulation: Failed Authentication](https://github.com/jacpaysinger/attack-simulation/blob/main/README.md)
  
-    - [Disabling Windows Firewall and Installing SQL Server and Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
+    - [Disabling Windows Firewall and Installing SQL Server to Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
  
 
 - <b>Microsoft Azure</b>
