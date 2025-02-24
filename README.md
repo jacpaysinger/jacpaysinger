@@ -7,7 +7,7 @@
 Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
- 📍 Somewhere securing the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📌 I'm currently working on: cybersecurity projects and AZ-104 study material with hands-on labs<br>
+ 📍 Somewhere securing the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📌 I'm currently working on: cybersecurity projects and hands-on labs<br>
  </p>
 <h2>💡 My recent projects:</h2>
 
