@@ -12,9 +12,9 @@ Hello, World! I'm <b>Jac</b> — matcha enthusiast and Software Support Analyst 
 <h2>💡 My recent projects:</h2>
 
 - <b>Cybersecurity Labs</b>
-  - [Microsoft Entra ID Permissions](https://github.com/jacpaysinger/microsoft-entra-id-permissions)
   - [Attack Simulation: Failed Authentication](https://github.com/jacpaysinger/attack-simulation/blob/main/README.md)
   - [Disabling Windows Firewall and Installing SQL Server to Create Vulnerabilities](https://github.com/jacpaysinger/disable-wf-install-SQL-enable)
+  - [Microsoft Entra ID Permissions](https://github.com/jacpaysinger/microsoft-entra-id-permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacpaysinger/azure-network-protocols)
   - [Creating Virtual Machines (Windows and Linux) in Microsoft Azure and Configuring NSGs](https://github.com/jacpaysinger/azure-creatingVMs)
 
