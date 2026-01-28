@@ -14,6 +14,7 @@ Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a pa
 - <b>ServiceNow Labs</b>
     - [System Administration: User Creation & Validation](https://github.com/jacpaysinger/User-Creation/blob/main/README.md)
     - [System Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
+    - [System Administration: Case Creation & Validation via Impersonation](https://github.com/jacpaysinger/Case-Creation/blob/main/README.md)
      
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
