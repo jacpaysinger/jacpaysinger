@@ -16,6 +16,7 @@ Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a pa
     - [System Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
     - [System Administration: Case Creation & Validation via Impersonation](https://github.com/jacpaysinger/Case-Creation/blob/main/README.md)
     - [System Administration: Incident Creation Using Classic Lists and Forms](https://github.com/jacpaysinger/Incident-Creation/blob/main/README.md)
+    - [System Administration: Incident Handling in Service Operations Workspace](https://github.com/jacpaysinger/Incident-Handling/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
