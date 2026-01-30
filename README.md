@@ -9,9 +9,9 @@ Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a pa
 </br>
  📍 Somewhere in the Cloud...</br> ✔️ Verify my certifications: <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">CompTIA Security+</a></br> 📌 I'm currently working on: ITSM projects and hands-on labs<br>
  </p>
-<h2>💡 My recent projects:</h2>
+<h2>💡 My ServiceNow Labs</h2>
 
-- <b>ServiceNow Labs</b>
+- <b>ServiceNow System Administration Labs:</b>
     - [System Administration: User Creation & Validation](https://github.com/jacpaysinger/User-Creation/blob/main/README.md)
     - [System Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
     - [System Administration: Case Creation & Validation via Impersonation](https://github.com/jacpaysinger/Case-Creation/blob/main/README.md)
