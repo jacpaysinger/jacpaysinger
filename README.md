@@ -11,19 +11,19 @@ Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a pa
  </p>
 <h2>💡 My ServiceNow Labs</h2>
 
-- <b>ServiceNow System Administration Labs:</b>
-    - [System Administration: User Creation & Validation](https://github.com/jacpaysinger/User-Creation/blob/main/README.md)
-    - [System Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
-    - [System Administration: Case Creation & Validation via Impersonation](https://github.com/jacpaysinger/Case-Creation/blob/main/README.md)
-    - [System Administration: Incident Creation Using Classic Lists and Forms](https://github.com/jacpaysinger/Incident-Creation/blob/main/README.md)
-    - [System Administration: Incident Handling in Service Operations Workspace](https://github.com/jacpaysinger/Incident-Handling/blob/main/README.md)
-    - [System Administration: Incident Status Review via Employee Center Portal](https://github.com/jacpaysinger/Incident-Status-Review/blob/main/README.md)
-    - [System Administration: Instance Configuration via Theme Builder](https://github.com/jacpaysinger/Instance-Configuration/blob/main/README.md)
-    - [System Administration: Create Core List Views for HHD Incidents](https://github.com/jacpaysinger/Core-List-Views/blob/main/README.md)
-    - [System Administration: Adding a Custom Field to an Incident Form](https://github.com/jacpaysinger/Add-Custom-Field-to-Incident-Form/blob/main/README.md)
-    - [System Administration: Add Category and Reference Values for Incident Routing](https://github.com/jacpaysinger/Category-Reference-Values/blob/main/README.md)
-    - [System Administration: Creating a Table for HHD Configuration Records](https://github.com/jacpaysinger/Table-Creation/blob/main/README.md)
-    - [System Administration: Configuring Role-Based Access Control (RBAC) for HHD Incidents and Asset Tags](https://github.com/jacpaysinger/Config-RBAC/blob/main/README.md)
+- <b>Platform Administration Labs:</b>
+    - [Platform Administration: User Creation & Validation](https://github.com/jacpaysinger/User-Creation/blob/main/README.md)
+    - [Platform Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
+    - [Platform Administration: Case Creation & Validation via Impersonation](https://github.com/jacpaysinger/Case-Creation/blob/main/README.md)
+    - [Platform Administration: Incident Creation Using Classic Lists and Forms](https://github.com/jacpaysinger/Incident-Creation/blob/main/README.md)
+    - [Platform Administration: Incident Handling in Service Operations Workspace](https://github.com/jacpaysinger/Incident-Handling/blob/main/README.md)
+    - [Platform Administration: Incident Status Review via Employee Center Portal](https://github.com/jacpaysinger/Incident-Status-Review/blob/main/README.md)
+    - [Platform Administration: Instance Configuration via Theme Builder](https://github.com/jacpaysinger/Instance-Configuration/blob/main/README.md)
+    - [Platform Administration: Create Core List Views for HHD Incidents](https://github.com/jacpaysinger/Core-List-Views/blob/main/README.md)
+    - [Platform Administration: Adding a Custom Field to an Incident Form](https://github.com/jacpaysinger/Add-Custom-Field-to-Incident-Form/blob/main/README.md)
+    - [Platform Administration: Add Category and Reference Values for Incident Routing](https://github.com/jacpaysinger/Category-Reference-Values/blob/main/README.md)
+    - [Platform Administration: Creating a Table for HHD Configuration Records](https://github.com/jacpaysinger/Table-Creation/blob/main/README.md)
+    - [Platform Administration: Configuring Role-Based Access Control (RBAC) for HHD Incidents and Asset Tags](https://github.com/jacpaysinger/Config-RBAC/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
