@@ -4,7 +4,8 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a passion for securing data. Welcome to my GitHub! 
+Hello, World! I'm <b>Jac</b>. 
+</br>Sushi enthusiast and Software Analyst with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
  📍 Somewhere in the Cloud...</br> ✔️ <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">Verify my certifications</a></br> 📌 I'm currently working on: ITSM projects and hands-on labs
