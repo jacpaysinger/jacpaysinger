@@ -24,6 +24,7 @@ Hello, World! I'm <b>Jac</b> — sushi enthusiast and Software Analyst with a pa
     - [Platform Administration: Add Category and Reference Values for Incident Routing](https://github.com/jacpaysinger/Category-Reference-Values/blob/main/README.md)
     - [Platform Administration: Creating a Table for HHD Configuration Records](https://github.com/jacpaysinger/Table-Creation/blob/main/README.md)
     - [Platform Administration: Configuring Role-Based Access Control (RBAC) for HHD Incidents and Asset Tags](https://github.com/jacpaysinger/Config-RBAC/blob/main/README.md)
+    - [Platform Administration: HHD Data Import & Validation Using Import Sets](https://github.com/jacpaysinger/Data-Import-Validation/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
