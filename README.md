@@ -4,7 +4,7 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm <b>Jac</b>. 
+I'm <b>Jac</b>. 
 </br>Sushi enthusiast and Software Analyst with a passion for securing data. Welcome to my GitHub! 
 </br>
 </br>
