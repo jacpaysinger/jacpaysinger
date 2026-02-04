@@ -21,15 +21,15 @@ I'm <b>Jac</b>.
     - [Platform Administration: Incident Handling in Service Operations Workspace](https://github.com/jacpaysinger/Incident-Handling/blob/main/README.md)
     - [Platform Administration: Incident Status Review via Employee Center Portal](https://github.com/jacpaysinger/Incident-Status-Review/blob/main/README.md)
     - [Platform Administration: Instance Configuration via Theme Builder](https://github.com/jacpaysinger/Instance-Configuration/blob/main/README.md)
-    - [Platform Administration: Creating Core List Views for HHD Incidents](https://github.com/jacpaysinger/Core-List-Views/blob/main/README.md)
+    - [Platform Administration: Creating Core List Views for Incidents](https://github.com/jacpaysinger/Core-List-Views/blob/main/README.md)
     - [Platform Administration: Adding a Custom Field to an Incident Form](https://github.com/jacpaysinger/Add-Custom-Field-to-Incident-Form/blob/main/README.md)
     - [Platform Administration: Adding Category and Reference Values for Incident Routing](https://github.com/jacpaysinger/Category-Reference-Values/blob/main/README.md)
-    - [Platform Administration: Creating a Table for HHD Configuration Records](https://github.com/jacpaysinger/Table-Creation/blob/main/README.md)
-    - [Platform Administration: Configuring Role-Based Access Control (RBAC) for HHD Incidents and Asset Tags](https://github.com/jacpaysinger/Config-RBAC/blob/main/README.md)
-    - [Platform Administration: HHD Data Import & Validation Using Import Sets](https://github.com/jacpaysinger/Data-Import-Validation/blob/main/README.md)
+    - [Platform Administration: Creating a Table for Configuration Records](https://github.com/jacpaysinger/Table-Creation/blob/main/README.md)
+    - [Platform Administration: Configuring Role-Based Access Control (RBAC) for Incidents and Asset Tags](https://github.com/jacpaysinger/Config-RBAC/blob/main/README.md)
+    - [Platform Administration: Data Import & Validation Using Import Sets](https://github.com/jacpaysinger/Data-Import-Validation/blob/main/README.md)
     - [Platform Administration: CMDB CI Relationships & Service Dependency Mapping](https://github.com/jacpaysinger/CMDB-CI-DEPEND-MAP/blob/main/README.md)
-    - [Platform Administration: HR Knowledge Base Management & Article Publishing](https://github.com/jacpaysinger/KB-Management/blob/main/README.md)
-    - [Platform Administration: Infinity HHD Service Catalog Item Creation & Pricing Configuration](https://github.com/jacpaysinger/Service-Catalog-Pricing-Config/blob/main/README.md)
+    - [Platform Administration: Knowledge Base Management & Article Publishing](https://github.com/jacpaysinger/KB-Management/blob/main/README.md)
+    - [Platform Administration: Service Catalog Item Creation & Pricing Configuration](https://github.com/jacpaysinger/Service-Catalog-Pricing-Config/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
