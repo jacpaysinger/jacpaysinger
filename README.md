@@ -29,6 +29,7 @@ I'm <b>Jac</b>.
     - [Platform Administration: HHD Data Import & Validation Using Import Sets](https://github.com/jacpaysinger/Data-Import-Validation/blob/main/README.md)
     - [Platform Administration: CMDB CI Relationships & Service Dependency Mapping](https://github.com/jacpaysinger/CMDB-CI-DEPEND-MAP/blob/main/README.md)
     - [Platform Administration: HR Knowledge Base Management & Article Publishing](https://github.com/jacpaysinger/KB-Management/blob/main/README.md)
+    - [Platform Administration: Infinity HHD Service Catalog Item Creation & Pricing Configuration](https://github.com/jacpaysinger/Service-Catalog-Pricing-Config/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
