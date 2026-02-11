@@ -31,6 +31,7 @@ I'm <b>Jac</b>.
     - [Platform Administration: Service Catalog Item Creation & Pricing Configuration](https://github.com/jacpaysinger/Service-Catalog-Pricing-Config/blob/main/README.md)
     - [Platform Administration: Service Catalog Flow Automation](https://github.com/jacpaysinger/Catalog-Flow-Automation/blob/main/README.md)
     - [Platform Administration: Dashboard & Visualization Management](https://github.com/jacpaysinger/Dashboard-Visualization-Management/blob/main/README.md)
+    - [Platform Administration: Configuring Notifications for Critical Incidents](https://github.com/jacpaysinger/Configuring-Notifications/blob/main/README.md)
 
       
 <h2>👩🏽‍💻 Some of my skills include:</h2>
