@@ -29,6 +29,7 @@ I'm <b>Jac</b>.
     - [Platform Administration: CMDB CI Relationships & Service Dependency Mapping](https://github.com/jacpaysinger/CMDB-CI-DEPEND-MAP/blob/main/README.md)
     - [Platform Administration: Knowledge Base Management & Article Publishing](https://github.com/jacpaysinger/KB-Management/blob/main/README.md)
     - [Platform Administration: Service Catalog Item Creation & Pricing Configuration](https://github.com/jacpaysinger/Service-Catalog-Pricing-Config/blob/main/README.md)
+    - [Platform Administration: Service Catalog Flow Automation](https://github.com/jacpaysinger/Catalog-Flow-Automation/blob/main/README.md)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 Application Support • ServiceNow Platform Administration • IT Service Management • IAM • Workflow & Process Documentation </br>
