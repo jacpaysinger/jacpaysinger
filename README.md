@@ -33,6 +33,9 @@ I'm <b>Jac</b>.
     - [Platform Administration: Dashboard & Visualization Management](https://github.com/jacpaysinger/Dashboard-Visualization-Management/blob/main/README.md)
     - [Platform Administration: Configuring Notifications for Critical Incidents](https://github.com/jacpaysinger/Configuring-Notifications/blob/main/README.md)
     - [Platform Administration: UI Policy and Business Rule Configuration for Escalations](https://github.com/jacpaysinger/UI-Policy-Config/blob/main/README.md)
+    - [Platform Administration: System Update Set Creation and Migration Preparation](https://github.com/jacpaysinger/System-Update-Sets/blob/main/README.md)
+    - [Platform Administration: Migrating Changes Using Retrieved Update Sets](https://github.com/jacpaysinger/Retrieved-Update-Sets/blob/main/README.md)
+    - [Platform Administration: Exploring Security Center Hardening and Best Practices](https://github.com/jacpaysinger/Security-Center/blob/main/README.md)
 
       
 <h2>👩🏽‍💻 Some of my skills include:</h2>
