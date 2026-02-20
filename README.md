@@ -7,7 +7,7 @@
 I'm <b>Jac</b>. 
 </br>Sushi enthusiast and Software Analyst with a passion for securing data. Welcome to my GitHub! 
 </br>
- 📍 Somewhere in the Cloud...</br> ✔️ <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">Verify my certifications</a></br> 📌 I'm currently working on: ITSM projects and hands-on labs
+ 📍 Somewhere in the Cloud...</br> ✔️ <a href="https://www.credly.com/users/jacqualyn-paysinger" target="_blank">Verify my certifications</a></br> 📌 I'm currently working on: ServiceNow projects and hands-on labs
  <br>
  </p>
 <h2>💡 My ServiceNow Labs</h2>
