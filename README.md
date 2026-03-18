@@ -12,6 +12,9 @@ Hi, I'm <b>Jac</b>.
  </p>
 <h2>💡 My ServiceNow Labs</h2>
 
+- <b>Application Development Labs:</b>
+    - [Application Development: Custom Scoped Application Creation & Review](https://github.com/jacpaysinger/Application-Creation-Review/blob/main/README.md)
+ 
 - <b>Platform Administration Labs:</b>
     - [Platform Administration: User Creation & Validation](https://github.com/jacpaysinger/User-Creation/blob/main/README.md)
     - [Platform Administration: Group Membership & Validation](https://github.com/jacpaysinger/Group-Membership/blob/main/README.md)
